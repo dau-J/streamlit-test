@@ -1,5 +1,9 @@
 streamlit
+pandas
+altair
+geopandas
 folium
 streamlit-folium
-matplotlib
-pandas
+openrouteservice
+python-dotenv
+# openrouteservice api key
